@@ -1,0 +1,18 @@
+{
+  "name": "ultraseco_control_recetas",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lucide": "^1.64.0",
+    "vite": "^8.3.5"
+  }
+}
